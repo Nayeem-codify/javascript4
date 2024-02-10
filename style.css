@@ -1,0 +1,10 @@
+button.btn{
+    color: white;
+    background-color: black;
+}
+.input1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
